@@ -18,7 +18,7 @@ I want to extend a warm and deep thanks to Marc Grabanski and the entire Fronten
 
 ----
 
-## Titles
+## Titles 
 
 I recommend reading the books in this order:
 
